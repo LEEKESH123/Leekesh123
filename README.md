@@ -4,19 +4,18 @@
 
 <h3 align="center">I am Rangala Mahesh, an enthusiastic and versatile individual deeply passionate about the realm of technology and its endless possibilities.</h3>
 
-- 🔭 I’m currently Pursing **BTech in Computer Science and Engineering**
+- 🔭 I’m currently Pursing **BTech in Electronics and Communication Engineering**
 
-- 🌱 I’m currently learning about **Artificial Intelligence, Machine Learning, Deep Learning, Neural Networks, other Programming Languages**
+- 🌱 I’m currently learning about **Embedded Systems, Anntena's, Java, Web-Devolpement and ECE related subjects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/maheshmm7](https://github.com/maheshmm7)
+- 👨‍💻 All of my projects are available at [https://github.com/Leekesh123](https://github.com/Leekesh123)
 
-- 📫 How to reach me **maheshrangala7@gmail.com**
+- 📫 How to reach me **pagotileekeshkumar@gmail.com**
 
-- 📄 Know about my experiences [https://coffee-madalyn-25.tiiny.site](https://coffee-madalyn-25.tiiny.site)
-
+- 📄 Know about my experiences 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@maheshrangala13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@maheshrangala13" height="30" width="40" /></a>
+<a href="https://twitter.com/KumarPagoti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@maheshrangala13" height="30" width="40" /></a>
 <a href="www.linkedin.com/in/rangala-mahesh-455163233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahesh-rangala-455163233" height="30" width="40" /></a>
 <a href="https://instagram.com/mahesh_mm7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahesh_mm7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mahesh_mm7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahesh_mm7/" height="30" width="40" /></a>
