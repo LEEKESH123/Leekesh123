@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">I am Rangala Mahesh, an enthusiastic and versatile individual deeply passionate about the realm of technology and its endless possibilities.</h3>
+<h3 align="center">I am Pagoti Leekesh Kumar, an enthusiastic and versatile individual deeply passionate about the realm of technology and its endless possibilities.</h3>
 
 - 🔭 I’m currently Pursing **BTech in Electronics and Communication Engineering**
 
@@ -15,11 +15,10 @@
 - 📄 Know about my experiences 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/KumarPagoti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@maheshrangala13" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/rangala-mahesh-455163233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahesh-rangala-455163233" height="30" width="40" /></a>
-<a href="https://instagram.com/mahesh_mm7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahesh_mm7" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mahesh_mm7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahesh_mm7/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/maheshrangala7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="maheshrangala7" height="30" width="40" /></a>
+<a href="https://twitter.com/KumarPagoti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@leekesh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/leekesh-kumar-pagoti-289928250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leekesh-kumar-pagoti-289928250" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/pagotileekeshkumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahesh_mm7/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/pagotileekd2z4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="maheshrangala7" height="30" width="40" /></a>
 </p>
 
 
