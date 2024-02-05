@@ -2,8 +2,8 @@
 
 
 
-<h3 align="center">I am Pagoti Leekesh Kumar, an enthusiastic and versatile individual deeply passionate about the realm of technology and its endless possibilities.</h3>
-
+<h3 align="left">I am Pagoti Leekesh Kumar, an enthusiastic and versatile individual deeply passionate about the realm of technology and its endless possibilities.</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 - 🔭 I’m currently Pursing **BTech in Electronics and Communication Engineering**
 
 - 🌱 I’m currently learning about **Embedded Systems, Anntena's, Java, Web-Devolpement and ECE related subjects**
