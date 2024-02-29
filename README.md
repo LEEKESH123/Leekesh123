@@ -1,4 +1,4 @@
-<h1 align="center">Greetings, I'm Pagoti Leekesh Kumar</h1>
+<h1 align="center">Greetings, I'm Leekesh Kumar Pagoti</h1>
 
 
 
@@ -6,13 +6,13 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 - 🔭 I’m currently Pursing **BTech in Electronics and Communication Engineering**
 
-- 🌱 I’m currently learning about **Embedded Systems, Anntena's, Java, Web-Devolpement and ECE related subjects**
+- 🌱 I’m currently learning about **Embedded Systems, Anntena's Design, Java, Web-Devolpement and ECE related subjects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Leekesh123](https://github.com/Leekesh123)
 
 - 📫 How to reach me **pagotileekeshkumar@gmail.com**
 
-- 📄 visit my website **https://github.com/LEEKESH123/portfolio-website**
+- 📄 visit my website **https://github.com/LEEKESH123/new-portfolio-**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/KumarPagoti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@leekesh" height="30" width="40" /></a>
