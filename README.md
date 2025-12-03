@@ -59,8 +59,8 @@ All projects and verification code are available here:
 ---
 
 ### 📫 Contact
-📧 Email: **pagotileekeshkumar@gmail.com**  
-🔗 LinkedIn: https://www.linkedin.com/in/leekesh-kumar-pagoti-289928250/
+📧 Email: **leekeshpagoti@gmail.com**  
+🔗 LinkedIn:https://www.linkedin.com/in/leekesh/
 
 ---
 
